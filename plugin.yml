@@ -1,0 +1,9 @@
+name: SuleiLobby
+version: 1.0
+author: SuleimanDEV
+main: me.suleimanlobby.Main
+commands:
+    setcargo:
+    setnpc:
+    cc:
+    clearchat:
